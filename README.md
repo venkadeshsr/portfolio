@@ -4,7 +4,7 @@ A growing portfolio of Cloud and Data Engineering projects, showcasing productio
 
 ---
 
-# [🛒 eCommerce Batch Data Pipeline using PySpark ETL](https://github.com/venkadeshsr/Ecommerce_Batch_Pipeline_Pyspark_ETL)
+# [🛒 eCommerce Batch Data Pipeline using PySpark ETL](https://github.com/venkadeshsr/ecommerce-batch-data-pipeline)
 
 A production-style end-to-end e-commerce batch data pipeline built using **Python, PySpark, Apache Airflow, PostgreSQL, and Docker**.
 
